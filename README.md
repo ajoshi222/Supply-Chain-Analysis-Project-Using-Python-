@@ -74,7 +74,8 @@ To solve the business problem of unpredictable delivery timelines, a classificat
 
   ## Open the Jupyter Notebook and run cells sequentially:
   Bash
-    jupyter notebook "Supply Chain Analysis Project Using Python.ipynb"
+  
+     jupyter notebook "Supply Chain Analysis Project Using Python.ipynb"
 
 Created with ❤️ by Ankit Joshi
 
